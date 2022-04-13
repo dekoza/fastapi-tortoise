@@ -1,6 +1,6 @@
 # FastAPI Tortoise
 
-Here I was tried to describe how to use it and that ideas I followed when was creating it.
+Here I tried to describe how to use it and that ideas I followed when was creating it.
 
 ## Main ideas
 
